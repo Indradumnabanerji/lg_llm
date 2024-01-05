@@ -47,11 +47,18 @@ class ResponseProcessor:
     
     # Function to find common words across responses
     def find_common_words(self, responses):
-        # Tokenizing and cleaning the responses
-        tokenized_responses = [set(response.lower().translate(str.maketrans('', '', string.punctuation)).split()) for response in responses]
-        # Finding common words
-        common_words = set.intersection(*tokenized_responses)
-        return ' '.join(common_words)
+        # Tokenizing and cleaning the single string of responses
+        word_counts = {}
+        words = str(responses).split()
+        word_counts.update(Counter(words))
+        words_common =[]
+        for word, count in word_counts.items():
+            if count > 3:
+                words_common.append(word)
+        print(words_common)
+        
+        return words_common
+
     
     # Function to process responses and combine them
 
@@ -73,7 +80,7 @@ class ResponseProcessor:
         word_frequency = Counter(response_words)
 
         # Identify common words and words from new prompt
-        common_threshold = 2
+        common_threshold = 3
         common_words = {word for word, count in word_frequency.items() if count > common_threshold or word in new_prompt_words}
 
         # Remove words that are in the original prompt, new prompt, or are common

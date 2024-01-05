@@ -1,0 +1,187 @@
+Model,OR Similarity Score,AND Similarity Score,NOT XOR Similarity Score,NOT AND Similarity Score,Prompt,New Prompt
+gpt3,0.73968095,0.4148078,0.47164303,0.22379613,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt3,0.74593043,0.41097942,0.2850759,0.18988103,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt3,0.7723227,0.40359193,0.3776538,0.31090903,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt2,0.70771646,0.46282125,0.4645211,0.330011,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt2,0.70771646,0.4415052,0.47822693,0.35044163,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt2,0.70771646,0.46686435,0.32136565,0.35403895,Impact of AI on future jobs?,Impact of AI on future jobs?
+mistral,0.85117364,0.47450757,0.35814336,0.37698805,Impact of AI on future jobs?,Impact of AI on future jobs?
+mistral,0.85117364,0.47225606,0.27360475,0.3328085,Impact of AI on future jobs?,Impact of AI on future jobs?
+mistral,0.85117364,0.456144,0.36275178,0.41993695,Impact of AI on future jobs?,Impact of AI on future jobs?
+cerebras,0.659232,0.42035225,0.4761771,0.28274268,Impact of AI on future jobs?,Impact of AI on future jobs?
+cerebras,0.64791703,0.44560343,0.61102366,0.322702,Impact of AI on future jobs?,Impact of AI on future jobs?
+cerebras,0.6898469,0.44985947,0.44518542,0.34567377,Impact of AI on future jobs?,Impact of AI on future jobs?
+gpt3,0.8559804,0.37104988,0.35171527,0.33544764,Renewable Energy benefits?,Renewable Energy benefits?
+gpt3,0.7725534,0.41500637,0.118368834,0.2340347,Renewable Energy benefits?,Renewable Energy benefits?
+gpt3,0.77317846,0.38321102,0.23173282,0.1252907,Renewable Energy benefits?,Renewable Energy benefits?
+gpt3,0.85181665,0.36672893,0.30980194,0.15088563,Renewable Energy benefits?,Renewable Energy benefits?
+gpt2,0.69454175,0.4285429,0.4399916,0.1397577,Renewable Energy benefits?,Renewable Energy benefits?
+gpt2,0.6756526,0.38262653,0.52907324,0.14362484,Renewable Energy benefits?,Renewable Energy benefits?
+gpt2,0.6811094,0.40633446,0.4851318,0.17223673,Renewable Energy benefits?,Renewable Energy benefits?
+mistral,0.88887894,0.5754835,0.39874303,0.34842092,Renewable Energy benefits?,Renewable Energy benefits?
+mistral,0.8725449,0.5821092,0.3020209,0.2953027,Renewable Energy benefits?,Renewable Energy benefits?
+mistral,0.87551796,0.5718046,0.30753797,0.3156711,Renewable Energy benefits?,Renewable Energy benefits?
+mistral,0.88327765,0.6025423,0.419202,0.26338705,Renewable Energy benefits?,Renewable Energy benefits?
+cerebras,0.5807164,0.36766273,0.41134125,0.16266981,Renewable Energy benefits?,Renewable Energy benefits?
+cerebras,0.60019255,0.4409262,0.52921486,0.17616358,Renewable Energy benefits?,Renewable Energy benefits?
+cerebras,0.52886015,0.36787832,0.42455345,0.15827206,Renewable Energy benefits?,Renewable Energy benefits?
+gpt3,0.82159454,0.5123023,0.34762263,0.26183754,Can robot replace artists?,Can robot replace artists?
+gpt3,0.6530056,0.4290848,0.3588634,0.14695355,Can robot replace artists?,Can robot replace artists?
+gpt3,0.6328517,0.44945884,0.46933112,0.13139535,Can robot replace artists?,Can robot replace artists?
+gpt2,0.68385637,0.46408942,0.4238233,0.3477875,Can robot replace artists?,Can robot replace artists?
+gpt2,0.74579513,0.4819312,0.18890959,0.34436172,Can robot replace artists?,Can robot replace artists?
+gpt2,0.7091611,0.5073607,0.32623297,0.3742436,Can robot replace artists?,Can robot replace artists?
+mistral,0.91195804,0.50164425,0.3574642,0.21425086,Can robot replace artists?,Can robot replace artists?
+mistral,0.91195804,0.49037963,0.27837625,0.17644385,Can robot replace artists?,Can robot replace artists?
+mistral,0.91195804,0.50193,0.31562537,0.32093102,Can robot replace artists?,Can robot replace artists?
+cerebras,0.6727774,0.48242658,0.36091128,0.28247344,Can robot replace artists?,Can robot replace artists?
+cerebras,0.5968953,0.42380077,0.3128063,0.123578474,Can robot replace artists?,Can robot replace artists?
+cerebras,0.71111137,0.42516193,0.3709144,0.049849883,Can robot replace artists?,Can robot replace artists?
+cerebras,0.6712501,0.4862021,0.3900907,0.18338063,Can robot replace artists?,Can robot replace artists?
+cerebras,0.702532,0.4336566,0.32208896,0.082516395,Can robot replace artists?,Can robot replace artists?
+cerebras,0.50576717,0.27782607,0.2932512,0.14710656,Can robot replace artists?,Can robot replace artists?
+gpt3,0.7932985,0.48072332,0.6555184,0.16349506,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt3,0.57541835,0.46153587,0.7063217,0.1958372,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt3,0.5935626,0.47228485,0.4830667,0.35076162,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt2,0.5477754,0.4617495,0.37322602,0.4075276,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt2,0.50855374,0.3809328,0.34188122,0.32274544,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt2,0.50855374,0.39486384,0.58688056,0.24168591,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+mistral,0.9076794,0.30300415,0.57545257,0.14977248,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+mistral,0.90440094,0.24292645,0.3210436,0.22245848,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+mistral,0.90440094,0.28715426,0.5648472,0.22299966,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+mistral,0.90440094,0.2727671,0.24833101,0.23281457,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+mistral,0.90440094,0.2883889,0.47457868,0.2150253,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+cerebras,0.647316,0.43010515,0.49870396,0.09998377,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+cerebras,0.49638635,0.43709436,0.56070197,0.38346204,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+cerebras,0.5027403,0.4042467,0.5130756,0.23219149,Define Nucleic Acid Amplification,Define Nucleic Acid Amplification
+gpt3,0.88610053,0.49865136,0.40961418,0.15852764,Define Blockchain Technology,Define Blockchain Technology
+gpt3,0.88015145,0.50488436,0.33697274,0.02490254,Define Blockchain Technology,Define Blockchain Technology
+gpt2,0.6970339,0.49433196,0.21883228,0.2941804,Define Blockchain Technology,Define Blockchain Technology
+gpt2,0.8078524,0.50643003,0.20586075,0.35790107,Define Blockchain Technology,Define Blockchain Technology
+gpt2,0.68867534,0.4611307,0.39044273,0.30191606,Define Blockchain Technology,Define Blockchain Technology
+gpt3,0.8712294,0.51586926,0.34958982,0.3203231,Define Blockchain Technology,Define Blockchain Technology
+gpt3,0.8748387,0.52424896,0.38295507,0.30798703,Define Blockchain Technology,Define Blockchain Technology
+gpt3,0.8394305,0.5039456,0.42501134,0.30130193,Define Blockchain Technology,Define Blockchain Technology
+mistral,0.93729514,0.5296159,0.39991623,0.3761732,Define Blockchain Technology,Define Blockchain Technology
+mistral,0.93729514,0.5193358,0.44248194,0.30008408,Define Blockchain Technology,Define Blockchain Technology
+mistral,0.93729514,0.53492725,0.3658108,0.38343334,Define Blockchain Technology,Define Blockchain Technology
+cerebras,0.67791903,0.50004417,0.3086704,0.38865954,Define Blockchain Technology,Define Blockchain Technology
+cerebras,0.78112906,0.48431167,0.32295284,0.29649687,Define Blockchain Technology,Define Blockchain Technology
+cerebras,0.8125851,0.19911851,0.28239006,0.26750535,Define Blockchain Technology,Define Blockchain Technology
+gpt3,0.89099085,0.563464,0.5164728,0.26635206,Define Photosynthesis,Define Photosynthesis
+gpt3,0.8726914,0.52673376,0.6328395,0.310045,Define Photosynthesis,Define Photosynthesis
+gpt3,0.8726914,0.5318267,0.3123505,0.31100318,Define Photosynthesis,Define Photosynthesis
+gpt2,0.67968524,0.48742837,0.51138866,0.2049556,Define Photosynthesis,Define Photosynthesis
+gpt2,0.67266816,0.49506712,0.4277814,0.16680208,Define Photosynthesis,Define Photosynthesis
+gpt2,0.68053293,0.49730432,0.4786152,0.18791555,Define Photosynthesis,Define Photosynthesis
+mistral,0.9330503,0.52040136,0.5050341,0.19841988,Define Photosynthesis,Define Photosynthesis
+mistral,0.92150056,0.5052646,0.27043554,0.17434895,Define Photosynthesis,Define Photosynthesis
+mistral,0.90416,0.52200526,0.5128436,0.24047488,Define Photosynthesis,Define Photosynthesis
+cerebras,0.5585243,0.39758685,0.46966496,0.16274033,Define Photosynthesis,Define Photosynthesis
+cerebras,0.74600863,0.48104212,0.53692245,0.20671058,Define Photosynthesis,Define Photosynthesis
+cerebras,0.85897875,0.5620273,0.6111273,0.31396836,Define Photosynthesis,Define Photosynthesis
+gpt3,0.7939421,0.53049725,0.31923914,0.44632417,A robot's dream about humans,A robot's dream about humans
+gpt3,0.7988539,0.5538858,0.5260455,0.44051015,A robot's dream about humans,A robot's dream about humans
+gpt3,0.79480654,0.5592712,0.43622276,0.4530897,A robot's dream about humans,A robot's dream about humans
+gpt2,0.6769986,0.5744639,0.3280496,0.43557847,A robot's dream about humans,A robot's dream about humans
+gpt2,0.7089957,0.59488,0.3287449,0.44548592,A robot's dream about humans,A robot's dream about humans
+gpt2,0.7221855,0.5827278,0.4085947,0.45944875,A robot's dream about humans,A robot's dream about humans
+mistral,0.6260857,0.587581,0.22257087,0.51000285,A robot's dream about humans,A robot's dream about humans
+mistral,0.6395514,0.59547424,0.26564234,0.5296781,A robot's dream about humans,A robot's dream about humans
+mistral,0.66061085,0.5931182,0.32039034,0.4521579,A robot's dream about humans,A robot's dream about humans
+cerebras,0.6473708,0.5629497,0.36955416,0.41414267,A robot's dream about humans,A robot's dream about humans
+cerebras,0.69575983,0.5788201,0.4552136,0.41381466,A robot's dream about humans,A robot's dream about humans
+cerebras,0.69833493,0.5825396,0.40320113,0.47932503,A robot's dream about humans,A robot's dream about humans
+gpt3,0.74949074,0.37514418,0.5379932,0.31530797,A day in the life of a monk,A day in the life of a monk
+gpt3,0.73215663,0.425531,0.5481116,0.15731163,A day in the life of a monk,A day in the life of a monk
+gpt3,0.7977601,0.44804248,0.46670926,0.36539713,A day in the life of a monk,A day in the life of a monk
+gpt2,0.7088767,0.5163316,0.30350733,0.41694155,A day in the life of a monk,A day in the life of a monk
+gpt2,0.649516,0.5001046,0.23893796,0.3826156,A day in the life of a monk,A day in the life of a monk
+gpt2,0.7343507,0.49638906,0.37259114,0.1803144,A day in the life of a monk,A day in the life of a monk
+mistral,0.7410655,0.5524475,0.28218615,0.1831032,A day in the life of a monk,A day in the life of a monk
+mistral,0.9064214,0.5017928,0.30066776,0.38755262,A day in the life of a monk,A day in the life of a monk
+mistral,0.8605032,0.5228635,0.300097,0.38037282,A day in the life of a monk,A day in the life of a monk
+gpt3,0.74331963,0.34635234,0.44144478,0.419361,If the moon could talk,If the moon could talk
+gpt3,0.4524943,0.41266686,0.45766315,0.31695187,If the moon could talk,If the moon could talk
+gpt3,0.76942044,0.43111053,0.45393643,0.41267598,If the moon could talk,If the moon could talk
+gpt2,0.585833,0.33047968,0.36374065,0.26365453,If the moon could talk,If the moon could talk
+gpt2,0.64207953,0.35015446,0.47155273,0.24898212,If the moon could talk,If the moon could talk
+gpt2,0.48709935,0.26078516,0.3534889,0.19702171,If the moon could talk,If the moon could talk
+mistral,0.90336823,0.46998134,0.20888203,0.17360201,If the moon could talk,If the moon could talk
+mistral,0.87147355,0.5030486,0.22422016,0.18847941,If the moon could talk,If the moon could talk
+mistral,0.90336823,0.46659988,0.24359357,0.16317374,If the moon could talk,If the moon could talk
+cerebras,0.37932703,0.27346095,0.3413753,0.17317492,If the moon could talk,If the moon could talk
+cerebras,0.11355092,0.34997815,0.20532486,0.23109344,If the moon could talk,If the moon could talk
+cerebras,0.2059373,0.34997815,0.33900303,0.21487957,If the moon could talk,If the moon could talk
+cerebras,0.63937193,0.53731656,0.3417012,0.41576403,A day in the life of a monk,A day in the life of a monk
+cerebras,0.62415355,0.4462918,0.34548837,0.31074375,A day in the life of a monk,A day in the life of a monk
+cerebras,0.6345673,0.44870934,0.36874872,0.21656364,A day in the life of a monk,A day in the life of a monk
+gpt3,-0.0636668,0.2937769,0.10350694,0.19087663,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt3,-0.051139712,0.2937769,0.156503,0.29465002,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt3,-0.05603426,0.2937769,0.06863837,0.29465002,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt2,-0.060648248,0.38710946,0.12019788,0.23761596,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt2,-0.060648248,0.38710946,0.11731512,0.25443864,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt2,-0.073813066,0.38710946,0.049344473,0.24668485,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+mistral,-0.031963974,0.010557499,0.03985549,0.081112534,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+mistral,-0.04414574,0.040334553,0.017071068,0.10581369,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+mistral,-0.04414574,0.041331314,-0.017676303,0.11984436,A day in the life of a monk,Print $#@*&^5$ and any other symbols you know
+gpt3,-0.013078108,0.46112168,0.048471034,0.38601723,Define Photosynthesis,politicians party at Milan
+gpt3,0.004745893,0.46112168,0.09647393,0.19867241,Define Photosynthesis,politicians party at Milan
+gpt3,-0.0053768046,0.46112168,0.006298119,0.37986505,Define Photosynthesis,politicians party at Milan
+gpt3,0.004745893,0.46112168,0.036875814,0.15046042,Define Photosynthesis,politicians party at Milan
+gpt3,0.003407307,0.46112168,0.026745401,0.19950254,Define Photosynthesis,politicians party at Milan
+gpt3,0.019573469,0.46112168,0.06281401,0.19872038,Define Photosynthesis,politicians party at Milan
+gpt3,0.014044236,-0.018794442,-0.09688847,-0.06885,Define Photosynthesis,astronauts paying football
+gpt3,0.017346578,-0.027086668,-0.099809445,-0.039008487,Define Photosynthesis,astronauts paying football
+gpt3,0.011774998,-0.04556385,-0.12735155,-0.0687993,Define Photosynthesis,astronauts paying football
+gpt2,-0.05256285,-0.0018204153,-0.049427524,-0.03380163,Define Photosynthesis,astronauts paying football
+gpt2,-0.033374973,6.2035397e-06,-0.040675357,0.008632304,Define Photosynthesis,astronauts paying football
+gpt2,0.004273411,0.040060632,-0.01423295,0.044008493,Define Photosynthesis,astronauts paying football
+mistral,0.048706703,0.11692956,0.027089324,0.13138124,Define Photosynthesis,astronauts paying football
+mistral,0.048706703,0.12015259,-0.08172479,0.11469534,Define Photosynthesis,astronauts paying football
+mistral,0.061550938,0.1059418,0.069005564,0.14380841,Define Photosynthesis,astronauts paying football
+cerebras,0.03972207,0.04392534,0.053342853,0.0059187915,Define Photosynthesis,astronauts paying football
+cerebras,0.030021569,0.081645325,-0.00905559,-0.009006903,Define Photosynthesis,astronauts paying football
+cerebras,-0.010817582,-0.04405565,0.037377562,-0.07925403,Define Photosynthesis,astronauts paying football
+gpt3,0.82383966,0.31477696,0.54610944,0.09853203,astronauts playing football,astronauts playing football
+gpt3,0.83475596,0.21772207,0.6154349,0.025734816,astronauts playing football,astronauts playing football
+gpt3,0.83652365,0.24866828,0.5540745,0.21262214,astronauts playing football,astronauts playing football
+gpt2,0.55557525,0.28282893,0.4181519,-0.035108544,astronauts playing football,astronauts playing football
+gpt2,0.5117378,0.2011072,0.2867838,-0.08267894,astronauts playing football,astronauts playing football
+gpt2,0.47144607,0.21148565,0.47757226,0.26111722,astronauts playing football,astronauts playing football
+mistral,0.75852144,0.4409268,0.4367615,0.33622718,astronauts playing football,astronauts playing football
+mistral,0.7766474,0.47533965,0.32604134,0.12519945,astronauts playing football,astronauts playing football
+mistral,0.7649424,0.43188757,0.13841361,0.26122248,astronauts playing football,astronauts playing football
+gpt3,0.8358232,0.14650953,0.47134095,0.1514581,astronauts playing football,astronauts playing football
+gpt3,0.7462028,0.3662257,0.2979195,-0.037752315,astronauts playing football,astronauts playing football
+gpt3,0.84171057,0.21057743,0.3728131,-0.046820223,astronauts playing football,astronauts playing football
+gpt2,0.13743198,0.27329218,0.05611312,0.25542068,astronauts playing football,astronauts playing football
+gpt2,0.19384779,0.19360465,0.10764417,0.3120888,astronauts playing football,astronauts playing football
+gpt2,0.41403735,0.29039538,0.06773761,0.22301146,astronauts playing football,astronauts playing football
+mistral,0.89239997,0.24752921,0.15530448,0.011883244,astronauts playing football,astronauts playing football
+mistral,0.82657313,0.3301407,0.26130933,0.20977506,astronauts playing football,astronauts playing football
+mistral,0.84386075,0.1553068,0.27428854,0.013411388,astronauts playing football,astronauts playing football
+cerebras,0.079048656,0.06232122,0.088082984,-0.021747705,astronauts playing football,astronauts playing football
+cerebras,0.33087012,0.20520714,0.24020728,0.100759506,astronauts playing football,astronauts playing football
+cerebras,0.24831603,0.14808518,0.47435504,-0.025491761,astronauts playing football,astronauts playing football
+gpt3,0.86365044,0.20282064,0.6083708,0.108268805,astronauts playing football,astronauts playing football
+gpt3,0.7349081,0.3662257,0.33579022,0.35291266,astronauts playing football,astronauts playing football
+gpt3,0.7400913,0.3662257,0.32025233,0.35291266,astronauts playing football,astronauts playing football
+gpt2,0.24983327,0.3301332,0.1682652,0.32668602,astronauts playing football,astronauts playing football
+gpt2,0.26896557,0.296501,0.210616,0.32607913,astronauts playing football,astronauts playing football
+gpt2,0.33007306,0.39144215,0.29945737,0.27087736,astronauts playing football,astronauts playing football
+mistral,0.8819047,0.3301407,0.43000042,0.28711182,astronauts playing football,astronauts playing football
+mistral,0.86648047,0.23769349,0.4386339,0.14539923,astronauts playing football,astronauts playing football
+mistral,0.8964705,0.26832378,0.40427947,0.28711182,astronauts playing football,astronauts playing football
+cerebras,0.28843895,0.12526125,0.25299284,0.11997141,astronauts playing football,astronauts playing football
+cerebras,0.28441262,0.20733209,0.31629404,0.07335404,astronauts playing football,astronauts playing football
+cerebras,0.19419101,0.096319064,0.19359833,0.069943674,astronauts playing football,astronauts playing football
+gpt3,0.516538,0.25541157,0.3807078,0.17469484,astronauts playing football,astronauts playing football
+gpt3,0.49050307,0.33047086,0.43951303,0.30788273,astronauts playing football,astronauts playing football
+gpt3,0.48143572,0.19370714,0.32096818,0.21243961,astronauts playing football,astronauts playing football
+gpt2,0.35352597,0.3662257,0.20534347,0.35291266,astronauts playing football,astronauts playing football
+gpt2,0.08924992,0.07467408,0.147576,0.20910463,astronauts playing football,astronauts playing football
+gpt2,0.21014372,0.10707858,0.16140024,0.1842002,astronauts playing football,astronauts playing football
+gpt2,0.38757658,0.3541909,0.41203874,0.39205843,astronauts playing football,astronauts playing football
+gpt2,0.3504979,0.13462546,0.3989094,0.22067878,astronauts playing football,astronauts playing football
+gpt2,0.2427955,0.21941303,0.14954185,0.2518516,astronauts playing football,astronauts playing football

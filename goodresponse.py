@@ -12,7 +12,7 @@ class GoodResponse:
 
     def get_mistral_response(self, prompt):
         mistral = HuggingFaceHub(repo_id="mistralai/Mistral-7B-v0.1", huggingfacehub_api_token=self.hf_token)
-        return mistral(prompt, temperature=0.1, top_p=0.9)
+        return mistral(prompt, temperature=0.1, top_p=0.9, max_tokens=500)
 
     def get_gpt2_response(self, prompt):
         model = GPT2LMHeadModel.from_pretrained("gpt2")
@@ -24,21 +24,25 @@ class GoodResponse:
 
     def get_gpt3_response(self, prompt):
         client = OpenAI(api_key=self.openai_api_key)
-        completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content": "Your task is to generate creative responses"},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.1,
-            top_p=0.9,
-            max_tokens=50
-        )
-        return completion.choices[0].message.content
+        try:
+            completion = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.1,
+                top_p=0.9,
+                max_tokens=50
+            )
+            return completion.choices[0].message.content
+        except Exception as e:
+            print(f"Error in get_gpt3_response: {e}")
+            return ""
+
 
     def get_cerebras_response(self, prompt):
         tokenizer = AutoTokenizer.from_pretrained(self.cerebras_model_dir)
         model = AutoModelForCausalLM.from_pretrained(self.cerebras_model_dir)
         pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
-        output = pipe(prompt, max_length=50, do_sample=True, temperature=0.1, no_repeat_ngram_size=2)
+        output = pipe(prompt, max_length=500, do_sample=True, temperature=0.1, no_repeat_ngram_size=2)
         return output[0].get('generated_text', '').replace(prompt, "")
